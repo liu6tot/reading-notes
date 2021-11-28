@@ -28,7 +28,7 @@ git config --global user.email "xxxx@xxx.com"
 
 ```
 git pull
-``
+```
 
 然后再进行push
 
