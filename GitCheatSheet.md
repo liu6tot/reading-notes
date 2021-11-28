@@ -4,3 +4,10 @@
 ```
 git clone https://githun.com/xxx/xxx.git
 ```
+
+在完成了clone文档之后，可以在本地编辑。然后本地提交
+
+```
+git add .
+```
+如果提示找不到用户名或者邮箱
