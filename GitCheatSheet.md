@@ -18,4 +18,4 @@ git config --global user.name "XXXXX"
 git config --global user.email "xxxx@xxx.com"
 ```
 如果在提交过程中提示socks错误
-![Alt text](.\data\giterr_socks5.png?raw=true "sockserr")
+![Alt text](./data/giterr_socks5.png?raw=true "sockserr")
