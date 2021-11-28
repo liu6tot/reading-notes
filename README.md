@@ -8,6 +8,6 @@
 
 非技术类则是杂七杂八的集腋成裘。
 ## 目录
-* [《米开朗基罗与教皇的天花板》心得]
+* [《米开朗基罗与教皇的天花板》心得](./Michellangelo.md)
 * [《西方文化中的数学》小读书](./WesternCulture.md)
 * [My Git Cheat Sheet](./GitCheatSheet.md)
