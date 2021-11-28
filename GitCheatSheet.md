@@ -9,5 +9,13 @@ git clone https://githun.com/xxx/xxx.git
 
 ```
 git add .
+git commit -m "some msg"
+git push
 ```
-如果提示找不到用户名或者邮箱
+如果提示找不到用户名或者邮箱,需要进行配置
+```
+git config --global user.name "XXXXX"
+git config --global user.email "xxxx@xxx.com"
+```
+如果在提交过程中提示socks错误
+![Alt text](.\data\giterr_socks5.png?raw=true "sockserr")
