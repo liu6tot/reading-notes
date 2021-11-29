@@ -8,6 +8,8 @@
 
 非技术类则是杂七杂八的集腋成裘。
 ## 目录
+### 人文杂项类
 * [《米开朗基罗与教皇的天花板》心得](./Michelangelo.md)
 * [《西方文化中的数学》小读书](./WesternCulture.md)
+### 技术类
 * [My Git Cheat Sheet](./GitCheatSheet.md)
