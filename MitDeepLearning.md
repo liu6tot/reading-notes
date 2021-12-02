@@ -1,6 +1,8 @@
 # 《深度学习》花书资源一览
 看专业书籍不配参考资料，好像买单反不配镜头
+
 <img src="./data/cover.jpg" width="200" height="300" alt="深度学习封面" align=center>
+
 ## 英文资料
 * 图书官网 (不提供图书整本pdf,需要自己分章节转换)
     * https://www.deeplearningbook.org/
@@ -40,7 +42,9 @@
     * 平 
 ## Coding 
 Dive into Deep Learning《动手学深度学习》
+
 <img src="./data/dive_front.jpg" width="200" height="300" alt="深度学习封面" align=center>
+
 * MXNET→Pytorch
     * PDF https://github.com/ShusenTang/Dive-into-DL-PyTorch
     * code https://github.com/shazhongcheng/machine_learing_study
