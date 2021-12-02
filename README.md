@@ -13,3 +13,4 @@
 * [《西方文化中的数学》小读书](./WesternCulture.md)
 ### 技术类
 * [My Git Cheat Sheet](./GitCheatSheet.md)
+* [MIT Deepl Learning](./MitDeepLearning.md)
