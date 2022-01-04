@@ -14,6 +14,8 @@
 * [《米开朗基罗与教皇的天花板》心得](./Michelangelo.md)
 * [《西方文化中的数学》小读书](./WesternCulture.md)
 * [网摘](./StoneCollectiom.md)
+
 ### 技术类
 * [My Git Cheat Sheet](./GitCheatSheet.md)
 * [MIT DEEP LEARNING(花书)](./MitDeepLearning.md)
+* [AiList](./AiList2021.md)
