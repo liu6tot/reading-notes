@@ -15,6 +15,7 @@
 * [《西方文化中的数学》小读书](./WesternCulture.md)
 * [网摘](./StoneCollectiom.md)
 * [大都会藏品《高士观瀑图》](./TheMet19731209.md)
+* [大都会藏品 《德化窑白瓷观音立像》](./TheMet2480155.md)
 
 ### 技术类
 * [My Git Cheat Sheet](./GitCheatSheet.md)
