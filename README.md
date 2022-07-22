@@ -14,6 +14,7 @@
 * [《米开朗基罗与教皇的天花板》心得](./Michelangelo.md)
 * [《西方文化中的数学》小读书](./WesternCulture.md)
 * [网摘](./StoneCollectiom.md)
+* [大都会藏品《高士观瀑图》](./TheMet19731209)
 
 ### 技术类
 * [My Git Cheat Sheet](./GitCheatSheet.md)
