@@ -40,7 +40,7 @@ git push
 
 ```
 git config --global http.proxy 'socks5://127.0.0.1:xxxx'
-git config --global https.proxy 'socks5://127.0.01:xxxx'
+git config --global https.proxy 'socks5://127.0.0.1:xxxx'
 ```
 
 ![Alt text](./data/gitshow_proxy.png?raw=true "proxy_status")
