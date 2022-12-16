@@ -21,3 +21,4 @@
 * [My Git Cheat Sheet](./GitCheatSheet.md)
 * [MIT DEEP LEARNING(花书)](./MitDeepLearning.md)
 * [AiList](./AiList2021.md)
+* [挖坑图像去噪](./_post/2022-12-27-DenoisingNotes.md)

@@ -5,7 +5,7 @@
 * [通过最大似然估计将统计模型与观测数据进行匹配的Python模块。](https://github.com/Samurais/maxlike)
 * [Collect resources for maximum by 王海良@chatopera](https://github.com/hailiang-wang/maxlike)
 * [一些经典OpenCV经典传统方法的实现](https://github.com/adraper2/Noise_Reduction_Research-STS499),包含了Nonlocal-means,bilateral, and 3x3 mean filters)
-* [Non-local means算法的另外一种实现](https://github.com/antimattercorrade/Image_Denoising)
+* [Non-local means算法的另外一种实现](https://github.com/antimattercorrade/Image_Denoising)，尤其是对滑动窗口的实现，详细
 
 ## 基于统计学习的图像分类
 
