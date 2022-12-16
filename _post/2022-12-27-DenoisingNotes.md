@@ -23,6 +23,7 @@
 * 一个使用分布式种子存储的数据库大全网站，宣称拥有127.15TB的研究数据
 [academictorrents](https://academictorrents.com/)
 * 用来做denoise的一个puzzle图像数据库(数据隐写技术).[website](https://drive.google.com/drive/folders/1xOgnY6dBTahUjqykN9HWYeCO67h_ax8S)
+* [Datasets for super-image](https://github.com/eugenesiow/super-image-data)
 
 ## TF Traing Tutroial For Beginners
 * Resnet(tensorflow) for training ur own data，数据来源是天池赛的比赛数据。
@@ -33,10 +34,11 @@ RED-Net
 * Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections
     - [官方代码](https://bitbucket.org/chhshen/image-denoising/src/master/) 
     - [Pytorch 版本](https://github.com/yjn870/REDNet-pytorch),但是没有给出详细的训练方法，作者也没有解释
+    * [opendenoising](https://github.com/opendenoising/opendenoising-benchmark)有和RED-Net对比Benchmark,里面有比较详细的载入数据、分割数据和转换格式与加噪的过程
 * Raphael Couturier, Gilles Perrot, Michel Salomon. Image Denoising Using a Deep Encoder-Decoder
 Network with Skip Connections. International Conference on Neural Information Processing, Dec
 2018, Siem Reap, Cambodia. pp.554 - 565. ffhal-02182820f
-* 
+    - [PDF WEBSITE](https://hal.archives-ouvertes.fr/hal-02182820/document)
 
 
 
