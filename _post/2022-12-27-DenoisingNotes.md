@@ -32,9 +32,10 @@
 ## 深度学习网络去噪
 RED-Net
 * Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections
-    - [官方代码](https://bitbucket.org/chhshen/image-denoising/src/master/) 
+    - [官方代码,Matlab](https://bitbucket.org/chhshen/image-denoising/src/master/) 
     - [Pytorch 版本](https://github.com/yjn870/REDNet-pytorch),但是没有给出详细的训练方法，作者也没有解释
-    * [opendenoising](https://github.com/opendenoising/opendenoising-benchmark)有和RED-Net对比Benchmark,里面有比较详细的载入数据、分割数据和转换格式与加噪的过程
+    * [Opendenoising](https://github.com/opendenoising/opendenoising-benchmark)有和RED-Net对比Benchmark,里面有比较详细的载入数据、分割数据和转换格式与加噪的过程
+    * [ConsensusNet](https://github.com/jhchoi0908/consensusNet),在对比REDNet时，有相关的实现方法。但是写得比较难懂。
 * Raphael Couturier, Gilles Perrot, Michel Salomon. Image Denoising Using a Deep Encoder-Decoder
 Network with Skip Connections. International Conference on Neural Information Processing, Dec
 2018, Siem Reap, Cambodia. pp.554 - 565. ffhal-02182820f
