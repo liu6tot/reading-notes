@@ -22,3 +22,4 @@
 * [MIT DEEP LEARNING(花书)](./MitDeepLearning.md)
 * [AiList](./AiList2021.md)
 * [挖坑图像去噪](./_post/2022-12-27-DenoisingNotes.md)
+* [AwsomeGit](./_post/2022-12-18-AwsomeCollections.md)
